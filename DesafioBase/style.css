@@ -1,0 +1,29 @@
+body{
+    font-family:"Inter", sans-serif;
+    background-color: #f2f2f2;
+}
+.form-control{
+    background-color: #f2f2f2;
+    
+}
+input{
+    height: 50px;
+    border-style: none;
+    
+}
+input::placeholder{
+    color: #f2f2f2;
+    font-weight:400;
+    font-size: 20px;
+    opacity: 50%;
+}
+button{
+    height: 60px;
+    border-style: none;
+}
+
+footer div{
+    height: 70px;
+    margin-top: 150px;
+}
+
